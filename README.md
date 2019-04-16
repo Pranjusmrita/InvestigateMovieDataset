@@ -9,7 +9,7 @@ In this project, I have selected a Movie dataset to document the data analysis p
 4. Have experience communicating the results of the analysis done.
 
 ### Pre-requisites
-Here, I am working with Python in Jupyter notebook. We would require installing Anaconda wihch comes handy with all the packages that I have used in this project. Following are the libraries that needs to be installed before getting started with the Jupyter notebook:
+Here, I am working with Python in Jupyter notebook. We would require installing Anaconda which comes handy with all the packages that I have used in this project. Following are the libraries that needs to be installed before getting started with the Jupyter notebook:
 1. Numpy
 2. Pandas
 3. Matplotlib
